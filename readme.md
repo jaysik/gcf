@@ -1,7 +1,7 @@
-Calculates the Greatest Common Factor of two numbers.
+# Calculates the Greatest Common Factor of two numbers.
 
-# This loops through the division of the two numbers until there are no remainders.
+This loops through the division of two numbers until there are no remainders to find the greatest common factor.
 
-# Requirements: Python
+### Requirements: Python
 
-# Call this file in the same directory in the console with the command: "python GCF.py" and follow the prompts.
+Call this file in the same directory in the console with the command: "python GCF.py" and follow the prompts.
